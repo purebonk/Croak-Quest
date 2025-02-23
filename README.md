@@ -11,6 +11,7 @@ Croak Quest is a 2D platformer game designed to teach players American Sign Lang
 This project was created for **nwHacks 2025**, where it won the **Best Beginner Project** award! You can learn more on our [Devpost page](https://devpost.com/software/croak-quest) and watch the [demo video](https://www.youtube.com/watch?v=KHt1T8ZliwM).
 
 ---
+[![Watch the video](https://img.youtube.com/vi/KHt1T8ZliwM/maxresdefault.jpg)](https://www.youtube.com/watch?v=KHt1T8ZliwM)
 
 ## **Key Features**
 
