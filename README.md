@@ -32,6 +32,7 @@ This project was created for **nwHacks 2025**, where it won the **Best Beginner 
 - **Git**: Version control for collaborative development.
 
 ---
+![Project Screenshot](croakqimg.png)
 
 ## **Installation**
 
